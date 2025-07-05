@@ -2,6 +2,7 @@
 
 Q563_Moilmap is a sample Qt peoject for MOIL fisheye imaging application. The target platform includes Desktop PC( Ubuntu 22.04 or Windows 11 ) and Renesas embedded RZ system.
 
+![screenshot](document/images/restfulapi.png)
 
 This project intent to run a fisheye application without moildev library. The key X, Y maps for the remap functions are acquired from the network API.
 

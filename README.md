@@ -137,8 +137,11 @@ Press F5 to run in Qt creator
 
 **Renesas RZ/G2L and RZ/V2H**
 
+
 Before you can select Renesas kit and cross compile as aarch64 architecture executable. Build
-the Linux Yocto project with "-c populate_sdk" parameter to generate the SDK, After installation of SDK and properly configure Renesas SDK in Qt Creator, Select Projects/ Add Kit. 
+the Linux Yocto project with "-c populate_sdk" parameter to generate the SDK. Install the SDK and properly configure Renesas SDK in Qt Creator, Select Projects/ Add Kit.
+
+![screenshot](document/images/RZG2L.png)
 
 Before running of Qt Creator, we need to set the environment variables.
 
